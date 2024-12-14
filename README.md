@@ -1,4 +1,4 @@
-# tupperwareRobot
+# Tupperware Robot (TWR) README
 I am going to build a robot out of tupperware.
 
 **History:** I have an Associate's in Applied Science (Mechatronics) and have worked for over a year as a Controls Software specialist in the industry on parcel-identifying (PID) equipment. During college, I became semi-obsessed with the idea of building devices, and found that one of the largest conceptual issues I had was deciding what qualities of a chassis would be beneficial. I, at the time, did not have the resources to think about how much a chassis for anything would cost, and then it hit me---tupperware. It's a chassis style that I have regular access to, even out of the trash if neessary. 
