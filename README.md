@@ -1,7 +1,12 @@
 # tupperwareRobot
-I am going to build a robot out of tupperware
+I am going to build a robot out of tupperware.
 
-# /blueprint.md:
+**History:** I have an Associate's in Applied Science (Mechatronics) and have worked for over a year as a Controls Software specialist in the industry on parcel-identifying (PID) equipment. During college, I became semi-obsessed with the idea of building devices, and found that one of the largest conceptual issues I had was deciding what qualities of a chassis would be beneficial. I, at the time, did not have the resources to think about how much a chassis for anything would cost, and then it hit me---tupperware. It's a chassis style that I have regular access to, even out of the trash if neessary. 
+
+The idea never came to fruition, but I am still alive. The basics of tupperware robot changed as new goals an issues arose. Power issues were a main issue while trying to add more components. It was originally connected to an Arduino UNO R3 as well. I selected a different project, a soldering kit that allowed you to make your own variable power supply, but during the time of construction I was (and now, still am) out of replacement solder tips, and so my work was lackluster and my final product inefficacious. That project must be looked at in order to add more components to the unit in a way that feels "earned" as a lesson. I want to construct the entirety of the unit from base components except for the Arduino. The model has changed to an Arduino UNO Mini knock-off model, as listed below. 
+
+---
+**/blueprint.md:** transferred from old repository.
 # Tupperware Robot / Tupperware Baby
 
 ***Collected Links:***
